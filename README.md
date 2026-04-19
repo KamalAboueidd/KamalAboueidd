@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="110" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="110" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVjZzJxZm1seDBzZnFrenZnaXJ1Nnl1dnBocDVzczhwYnBqcXJ4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ehw7lcf9szJJfJKGSJ/giphy.gif"  />
 
 ###
 
