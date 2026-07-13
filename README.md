@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hello i'm Kamal Abou eid software engineer</h1>
+<h1 data-importer="text" align="center">Hello i'm Kamal Abou eid Software engineer</h1>
 
 ###
 
