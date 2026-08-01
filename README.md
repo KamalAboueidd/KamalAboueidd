@@ -63,8 +63,11 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=KamalAboueidd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- 1. Streak Stats with Cache-Control -->
+  <img src="https://streak-stats.demolab.com?user=KamalAboueidd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&cache=false" height="150" alt="streak graph" />
+  
+  <!-- 2. Trophies Graph with Timestamp to force refresh -->
+  <img src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?v=1" height="150" alt="trophy graph" />
 </div>
 
 ###
