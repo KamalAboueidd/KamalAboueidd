@@ -63,7 +63,7 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=KamalAboueidd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=KamalAboueidd&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 
   <img src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?v=1" height="150" alt="trophy graph" />
 </div>
