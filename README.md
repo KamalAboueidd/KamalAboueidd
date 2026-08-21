@@ -64,12 +64,14 @@
 
 <div data-importer="stats" align="center">
 
+  <!-- GitHub Streak -->
   <img
-    src="https://streak-stats.demolab.com?user=KamalAboueidd&theme=dracula&hide_border=false&border_radius=5"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KamalAboueidd&theme=dracula&hide_border=false"
     height="150"
     alt="GitHub Streak"
   />
 
+  <!-- GitHub Trophy -->
   <img
     src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?v=1"
     height="150"
@@ -86,27 +88,29 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  >
+  />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
+  />
   <img
     alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
+  />
 </picture>
 
 ###
 
 <div data-importer="stats" align="center">
 
+  <!-- GitHub Stats -->
   <img
     src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
     height="150"
     alt="stats graph"
   />
 
+  <!-- Top Languages -->
   <img
     src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
     height="150"
