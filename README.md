@@ -71,9 +71,9 @@
     alt="GitHub Streak"
   />
 
-  <!-- GitHub Trophy -->
+<!-- GitHub Trophy -->
   <img
-    src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?v=1"
+    src="https://github-profile-trophy.vercel.app/?username=KamalAboueidd&theme=dracula"
     height="150"
     alt="trophy graph"
   />
