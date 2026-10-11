@@ -73,7 +73,7 @@
 
 <!-- GitHub Trophy -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=KamalAboueidd&theme=dracula"
+    src="https://raw.githubusercontent.com/KamalAboueidd/KamalAboueidd/trophy-output/trophy.svg?v=2"
     height="150"
     alt="trophy graph"
   />
