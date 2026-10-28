@@ -112,8 +112,9 @@
 
   <!-- Top Languages -->
 
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAboueidd&layout=compact&langs_count=6&theme=dracula&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAboueidd&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=HTML,CSS"
   height="200"
   alt="Top Languages"
 />
